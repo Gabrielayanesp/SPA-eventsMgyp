@@ -66,7 +66,7 @@ button {
     background-color: var(--second_color);
     box-shadow: 0 4px 8px rgba(2, 1, 31, 0.219);
     transition: transform 0.2s ease;
-    color: white;
+    color: rgb(255, 255, 255);
     border: none;
     cursor: pointer; 
 }
